@@ -312,7 +312,7 @@ body{
 }
 
 .our-projects .container-project .project-title h2 {
-    font-size: 40px;
+    font-size: 30px;
     color: #fff;
     font-weight: normal;
 }
@@ -356,7 +356,7 @@ body{
 }
 
 .testimonios .testimonios-title h2 {
-    font-size: 50px;
+    font-size: 40px;
     color: var(--black);
     font-weight: normal;
     margin-bottom: 10px;
@@ -479,7 +479,7 @@ body{
  .footer .footer-content .footer-title h2{
      text-align: center;
      color:#fff;
-     font-size: 30px;
+     font-size: 28px;
      font-weight: normal; 
      margin-bottom: 10px;
         
@@ -537,8 +537,7 @@ body{
     outline: none;
     font-size: 15px;
     color: var(--black);
-    padding: 200px;
-
+    
  }
 
  .footer .footer-content .formulario-content #formulario .send{
